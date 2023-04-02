@@ -1,4 +1,4 @@
-# Lr 3-4
+# Lr 3
 Information System and Technologies
 
 #_Natoloka Mykola_
